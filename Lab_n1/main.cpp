@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "function.hpp"
+#include "include/function.hpp"
 
 // Вариант 4
 // Функция возвращает количество гласных букв в заданной строке (на английском).
