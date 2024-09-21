@@ -8,6 +8,7 @@
 
 int main(int argc, char* argv[]) {
 
+    std::cout << "Введите строку. Программа посчитает количество латинский гласных строчных букв\n";
     std::string str;
     std::getline(std::cin, str);            // line may consist only of spaces
     std::cout << function(str) << std::endl;
